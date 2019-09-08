@@ -1,0 +1,7 @@
+/* pages/list/list.wxss */
+
+.list {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+}

@@ -1,0 +1,7 @@
+{
+  "backgroundColor": "#ffffff",
+  "backgroundTextStyle": "dark",
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "搜索 « 音乐 « 豆瓣",
+  "usingComponents": {}
+}
